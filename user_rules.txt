@@ -1,10 +1,12 @@
 blog.csdn.net##div.passport-login-container:last-child
 juejin.cn###juejin > div.view-container:first-child > main.container.main-container:last-child > div.view.column-view > div.article-suspended-panel:last-child > div.panel-btn.with-badge:nth-child(4) > div.guide-collect-popover:last-child
 superuser.com##.ff-sans, .ps-fixed, .z-nav-fixed, .ws4, .sm\:w-auto, .p32, .sm\:p16, .bg-black-750, .fc-white, .bar-lg, .b16, .l16, .r16, .js-consent-banner
-##div.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.sm\:p16.bg-black-750.fc-white.bar-lg.b16.l16.r16.js-consent-banner:nth-child(13)
-unix.stackexchange.com##div.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.sm\:p16.bg-black-750.fc-white.bar-lg.b16.l16.r16.js-consent-banner:nth-child(16)
+unix.stackexchange.com##div.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.sm\:p16.bg-black-750.fc-white.bar-lg.b16.l16.r16.js-consent-banner
+unix.stackexchange.com##div.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.sm\:p16.bg-black-600.fc-white.bar-lg.b16.l16.r16.js-consent-banner
 serverfault.com##div.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.sm\:p16.bg-black-750.fc-white.bar-lg.b16.l16.r16.js-consent-banner
 serverfault.com##div.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.sm\:p16.bg-black-600.fc-white.bar-lg.b16.l16.r16.js-consent-banner
+stackoverflow.com##div.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.sm\:p16.bg-black-750.fc-white.bar-lg.b16.l16.r16.js-consent-banner
+stackoverflow.com##div.ff-sans.ps-fixed.z-nav-fixed.ws4.sm\:w-auto.p32.sm\:p16.bg-black-600.fc-white.bar-lg.b16.l16.r16.js-consent-banner
 baidu.com###content_right > table > tbody > tr > td
 baidu.com##.s-hotsearch-title
 baidu.com###bottom_space
